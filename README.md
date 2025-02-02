@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub Acount
+## Welcome to my GitHub Acount ☜(ﾟヮﾟ☜)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
