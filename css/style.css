@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .container{
+    width: 1200px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 3rem;
+    text-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 1.2rem;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  }
+  a {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background: #00d4ff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff;
+    text-decoration: none;
+  }
+  .button:hover {
+    background: #005f73;
+    box-shadow: 0 0 15px #005f73, 0 0 30px #005f73;
+  }
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
+    p {
+      font-size: 1rem;
+    }
+    .button {
+      font-size: 0.9rem;
+      padding: 8px 16px;
+    }
+  }
+  body {
+    background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+    animation: backgroundShift 10s infinite alternate;
+  }
+  @keyframes backgroundShift {
+    0% {
+      background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+    }
+    100% {
+      background: linear-gradient(120deg, #3a1c71, #d76d77, #ffaf7b);
+    }
+  }
+  h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px #00d4ff, -2px -2px 5px #203a43;
+  }
+  button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px #005f73, 0 0 50px #005f73;
+  }
+  section {
+    padding: 20px;
+    margin: 20px 0;
+    background: rgba(20, 40, 60, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00d4ff;
+  }
+  h2 {
+    text-shadow: 0 0 10px #00d4ff;
+  }
+  ul, .review, .project {
+    margin: 10px 0;
+  }
+  .hero-but{
+    margin-bottom: auto;
+  }
+  footer {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    border-top: 1px solid #00d4ff;
+    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.5);
+  }
+  .footer-content p, .footer-content a {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+  }
+  .footer-content a:hover {
+    color: #00d4ff;
+    text-shadow: 0 0 5px #00d4ff;
+  }
+  .footer-content nav a {
+    margin: 0 10px;
+  }
+  .footer-nav{
+    padding-bottom: 20px;
+  }
