@@ -1,0 +1,88 @@
+:root{
+    --bg-color: rgba(20, 40, 60, 0.9);
+    --header-bg: rgba(0, 0, 0, 0.8);
+    --decoration-color: #00d4ff;
+    --text-color: rgba(255, 255, 255, 0.8);
+    --fff-color: #fff;
+    --bg-ingradient1: #0f2027;
+    --bg-ingradient2: #203a43;
+    --bg-ingradient3: #2c5364;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg, var(--bg-ingradient1), var(--bg-ingradient2), var(--bg-ingradient3));
+    color: #fff;
+  }
+  header {
+    text-align: center;
+    padding: 20px;
+    background: var(--header-bg);
+    text-shadow: 0 0 5px var(--decoration-color);
+  }
+  .hero-but {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: var(--decoration-color);
+    border: none;
+    border-radius: 5px;
+    color: var(--fff-color);
+    box-shadow: 0 0 10px var(--decoration-color), 0 0 20px var(--decoration-color);
+    text-decoration: none;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  .project-card {
+    background-color: var(--bg-color);
+    border: 1px solid var(--decoration-color);
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 15px var(--decoration-color);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  .project-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px var(--decoration-color);
+  }
+  .project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  .project-card h3 {
+    margin: 15px 0 10px;
+  }
+  .project-card p {
+    font-size: 0.9rem;
+    color: var(--text-color);
+  }
+  .project-card a {
+    color: var(--decoration-color);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+  .nav-list{
+    list-style: none;
+  }
+  .nav-link{
+    list-style: none;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: var(--decoration-color);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  .nav-link:hover{
+    font-size: 18px;
+    transition: all 0.5s;
+  }
