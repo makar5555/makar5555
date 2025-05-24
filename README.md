@@ -1,11 +1,38 @@
 ## Ласкаво просимо до GitHub 5555 ☜(ﾟヮﾟ☜)
 
--🔭 Зараз я працюю над Antools
 
--🌱 Зараз я навчаюся на Go ITeens
+<br clear="both">
 
--👯 Я хочу співпрацювати з Blizard Entrenamient
+<div align="center">
+ </div>
 
--💬 Запитайте мене про те, як грати в StarCraft (¬‿¬)
 
--⚡ Цікавий факт: я з України
+<div id="header" align="center">
+  <h1> Привіт всім! Я Макар. Мені 12 та я фронтенд розробник з України :)</h1>
+
+ </div>
+
+
+
+
+
+
+ <h3 align="center"> :zap: About Me :zap: </h3>   
+
+
+
+
+<br><br>
+<div>
+ <h3 align="center">:page_with_curl: My Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HlibSamodin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HlibSamodin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+ <br>
+</div>
+
+ 
+<div align="center">
+  <h1 align="center">Дякую за відвідування! До зузтрічі!</h1>
+<br><br>
