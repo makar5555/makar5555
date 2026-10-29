@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://camo.githubusercontent.com/d0a8a03cdc6d8c4a21d6e90cb6c65f66569b715be1563e7fee83c5cab783846b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)" alt="VS Code" />
 </p>
 
 ---
